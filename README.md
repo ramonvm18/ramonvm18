@@ -2,8 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ramon%20Vazquez-2E2D2E?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=79FE96&link=https://www.linkedin.com/in/thiagoleaodev/)](https://www.linkedin.com/in/ramon-vazquez-mastropaulo-073921152/) [![Gmail Badge](https://img.shields.io/badge/-ramon.mastropaulo@hotmail.com-2E2D2E?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=79FE96&link=mailto:ramon.mastropaulo@hotmail.com)](mailto:ramon.mastropaulo@hotmail.com)
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, C#
-- 🤔 I’m looking for help with Node.js
+- 🌱 I’m currently learning HTML, CSS, JavaScript, C#, React, Next.js
+- 💼 Currently working as a Fullstack Developer at **Tok&Stok**
 - 📫 How to reach me: ramon.mastropaulo@hotmail.com
 
 

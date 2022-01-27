@@ -41,7 +41,7 @@ In the overview below you will find my most recent work experience:
 
 **Software Developer** \
 [**Tok&Stok**](https://www.tokstok.com.br) • Internship \
-Languages & Technologies: `Javascript`, `React.js`, `Next.js`, `C#`, `SASS` 
+Languages & Technologies: `JavaScript`, `TypeScript`, `React.js`, `Next.js`, `C#`, `SASS` 
 
 <br/>
 <br/>

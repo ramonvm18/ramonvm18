@@ -37,7 +37,7 @@
 In the overview below you will find my most recent work experience:
 
 
-[<img align="left" height="94px" width="94px" alt="Tok&Stok" src="https://scontent.fssz3-1.fna.fbcdn.net/v/t1.6435-9/106714513_10157857856227545_3048244231003151874_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGJxQe6-KCUqVPGQsZ9Yw3DsFtnl6COifOwW2eXoI6J848ROBii6rDdlM2bONn4KFeo0b8Wk0f8oLkvFFDa_ZZm&_nc_ohc=1qjaW5v6K_wAX-OJD4F&_nc_ht=scontent.fssz3-1.fna&oh=00_AT974s6M7JcBIWXl0B_kOCYoa87-ffKcjs1hRa7BoRCcxQ&oe=6216F1E7"/>](https://www.tokstok.com.br)
+[<img align="left" height="94px" width="94px" alt="Tok&Stok" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFGv0ItlCIRUQ/company-logo_200_200/0/1625154761892?e=2147483647&v=beta&t=W05xa0g_gd8bfCxE8HTQ-sOf60xeOlaCHh14ve6UeFU7"/>](https://www.tokstok.com.br)
 
 **Software Developer** \
 [**Tok&Stok**](https://www.tokstok.com.br) • Internship \

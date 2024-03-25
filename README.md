@@ -30,11 +30,20 @@
 In the overview below you will find my most recent work experience:
 
 
-[<img align="left" height="94px" width="94px" alt="Tok&Stok" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFGv0ItlCIRUQ/company-logo_200_200/0/1625154761892?e=2147483647&v=beta&t=W05xa0g_gd8bfCxE8HTQ-sOf60xeOlaCHh14ve6UeFU7"/>](https://www.tokstok.com.br)
+[<img align="left" height="94px" width="94px" alt="RD" src="https://cdn.rd.com.br/prod-v2/2024/03/b61a97dc-logo-rdsaude.svg"/>](https://rdsaude.com.br/)
 
 **Software Developer** \
-[**Tok&Stok**](https://www.tokstok.com.br) • Internship \
-Languages & Technologies: `JavaScript`, `TypeScript`, `React.js`, `Next.js`, `C#`, `SASS` 
+[**RD Saúde**](https://www.tokstok.com.br) • Full-Time \
+Languages & Technologies: `JavaScript`, `React.js`, `React Native`, `Java`
+
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Tok&Stok" src="https://tokstok.vtexassets.com/assets/vtex.file-manager-graphql/images/daa2d6c9-8d3a-457b-8e5e-05e8c99e5e9b___050b6dcb81dcd0241030c7fe4077cec1.png"/>](https://www.tokstok.com.br)
+
+**Software Developer** \
+[**Tok&Stok**](https://www.tokstok.com.br) • Full-Time \
+Languages & Technologies: `JavaScript`, `TypeScript`, `React.js`, `Next.js`, `C#`, `SASS`, `.NET`, `ASP.NET`
 
 <br/>
 <br/>

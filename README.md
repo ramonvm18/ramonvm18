@@ -33,7 +33,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="RD" src="https://cdn.rd.com.br/prod-v2/2024/03/b61a97dc-logo-rdsaude.svg"/>](https://rdsaude.com.br/)
 
 **Software Developer** \
-[**RD Saúde**](https://www.tokstok.com.br) • Full-Time \
+[**RD Saúde**](https://rdsaude.com.br) • Full-Time \
 Languages & Technologies: `JavaScript`, `React.js`, `React Native`, `Java`
 
 <br/>

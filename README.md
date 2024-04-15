@@ -15,18 +15,13 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+<br>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonvm18&exclude_repo=consultarcep&hide=javascript,css,scss,html&theme=tokyonight)
+
   
- 
-
- <h3> Visitantes </h3>  
-
- <div>
-
-  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=ramonvm18&color=green" alt="ramonvm18" /> <br>
-
- </div>  
-  
-  ### Work Experience
+### Work Experience
 In the overview below you will find my most recent work experience:
 
 
